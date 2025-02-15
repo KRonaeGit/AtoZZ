@@ -21,7 +21,7 @@ That is, using AtoZZ, you can use functions that return things like the examples
 
 ## Usage
 
-##### Installation
+#### Installation
 Execute command below on terminal:
 ```bash
 npm install atozz
