@@ -1,0 +1,17 @@
+{
+  "name": "atozz",
+  "displayName": "AtoZZ",
+  "version": "2.0.1",
+  "main": "atozz.js",
+  "keywords": ["atoz","atozz","a2z","alphabet"],
+  "author": {
+    "name": "KRonae",
+    "email": "msg.kronae@gmail.com",
+    "url": "https://github.com/KRonaeGit"
+  },
+  "license": "MIT",
+  "description": "Generate string A to ZZ",
+  "bugs": {
+    "url": "https://github.com/KRonaeGit/AtoZZ"
+  }
+}
